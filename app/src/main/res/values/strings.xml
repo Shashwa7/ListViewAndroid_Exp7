@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AdapterViewApp</string>
+    <string name="appTitle_txt">Linear Layout</string>
+</resources>
